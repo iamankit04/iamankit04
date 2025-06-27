@@ -28,23 +28,35 @@
 
 <table>
   <tr>
-    <td width="33%">
-      <h3>3D Circle Animation</h3>
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%">
-      <p>Interactive 3D visualization using Three.js</p>
-      <img src="https://skillicons.dev/icons?i=js,threejs,webgl" width="120">
+    <td width="33%" valign="top" style="padding: 15px;">
+      <h3 align="center">3D Circle Animation</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" style="border-radius: 8px;">
+      </div>
+      <p align="center">Interactive 3D visualization using Three.js</p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=js,threejs,webgl">
+      </div>
     </td>
-    <td width="33%">
-      <h3>VS Code Clone</h3>
-      <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="100%">
-      <p>Feature-rich code editor clone</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="100">
+    <td width="33%" valign="top" style="padding: 15px;">
+      <h3 align="center">VS Code Clone</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="100%" style="border-radius: 8px;">
+      </div>
+      <p align="center">Feature-rich code editor clone</p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react">
+      </div>
     </td>
-    <td width="33%">
-      <h3>Spiritual Zone</h3>
-      <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100%">
-      <p>Interactive tourism portal</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" width="150">
+    <td width="33%" valign="top" style="padding: 15px;">
+      <h3 align="center">Spiritual Zone</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100%" style="border-radius: 8px;">
+      </div>
+      <p align="center">Interactive tourism portal</p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
+      </div>
     </td>
   </tr>
 </table>
@@ -52,7 +64,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,mongodb,mysql,git,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,mongodb,mysql,git,github,bootstrap">
 </p>
 
 ## 📊 GitHub Stats
