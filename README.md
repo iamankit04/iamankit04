@@ -10,8 +10,8 @@
 
 ## 🏆 Coding Profiles
 
-| <img src="https://leetcard.jacoblin.cool/iamankit07?ext=heatmap&theme=dark" width="300"> | <img src="https://codility-certificate-badge.vercel.app/api?name=Ankit_Kumar&rank=GOLD" width="300"> | <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=your_gfg_username&theme=dark" width="300"> |
-|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| <img src="https://leetcard.jacoblin.cool/iamankit07?ext=heatmap&theme=dark" width="300"> | <img src="https://codility-certificate-badge.vercel.app/api?name=Ankit_Kumar&rank=GOLD" width="300"> | <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=your_gfg_username&theme=dark" width="300">
+
 
 ## 📊 Problem Solving Stats
 
