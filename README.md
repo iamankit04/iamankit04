@@ -12,8 +12,7 @@
 
 <div align="center">
   
-[![LeetCode Stats](![](https://leetcard.jacoblin.cool/iamankit07?site=cn))
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamankit07?theme=dark)
 </div>
 
 <div align="center">
