@@ -16,28 +16,31 @@
 ## 🌟 Featured Projects
 
 ### 🎨 3D Circle Animation 
-> ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif)  
+> ![Web Development](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)  
 > Creative visual experience using modern web technologies  
 > ![Tech](https://skillicons.dev/icons?i=js,html,css)
 
 ### 🕉️ Spiritual Zone Website 
-> ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif)  
+> ![Web Design](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)  
 > Platform showcasing spiritual places with intuitive UI  
 > ![Tech](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 ### 💻 VS Code Clone 
-> ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif)  
+> ![Coding](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
 > Functional replica of VS Code editor  
 > ![Tech](https://skillicons.dev/icons?i=html,css,js)
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,mysql" alt="Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,mysql,git" />
+  </a>
 </p>
 
-## 📊 Coding Activity
+## 📊 Weekly Coding Activity
 
 ```text
-🌱 This Week's Activity:
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+🌱 This Week's Coding Progress:
+░░░░░░░░░░░░░░░░░░░░░░░░░░░ 30% 
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
