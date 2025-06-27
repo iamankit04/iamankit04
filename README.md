@@ -8,14 +8,19 @@
 💻 Solved **350+ problems** across platforms  
 🏆 LeetCode 50+ Days Streak  
 
-## 🏆 LeetCode Streak Celebration! 🐒
+## 🐍 LeetCode Snake Eating Your Streaks!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
-  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/iamankit07?theme=dark&font=Source%20Code%20Pro&ext=heatmap&width=800)](https://leetcode.com/iamankit07/)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode.card.workers.dev/?username=iamankit07&theme=dark&font=baloo&extension=activity&animation=snake">
+    <img alt="LeetCode Stats" src="https://leetcode.card.workers.dev/?username=iamankit07&theme=light&extension=activity&animation=snake" width="800">
+  </picture>
+</div>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
+<div align="center">
+  
+[![LeetCode Snake](https://raw.githubusercontent.com/iamankit07/iamankit07/output/github-contribution-grid-snake.svg)](https://leetcode.com/iamankit07/)
+
 </div>
 
 <p align="center">
