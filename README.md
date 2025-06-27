@@ -16,7 +16,7 @@
 ## 📊 Problem Solving Stats
 
 ```text
-✅ Total Solved: 400+
-├── Codility: 120+ (Gold Badge)
+✅ Total Solved: 350+
+├── Codestudio: 50+ 
 ├── LeetCode: 250+ 
-└── GfG: 100+
+└── GfG: 50++
