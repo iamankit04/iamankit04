@@ -8,13 +8,20 @@
 💻 Solved **350+ problems** across platforms  
 🏆 LeetCode 50+ Days Streak  
 
-## 🏆 Coding Profiles
+## 🏆 LeetCode Streak Celebration! 🐒
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/iamankit07?theme=dark&font=Source%20Code%20Pro&ext=heatmap&width=800)](https://leetcode.com/iamankit07/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/iamankit07?theme=dark&font=Source%20Code%20Pro&ext=heatmap&width=800)](https://leetcode.com/iamankit07/)
 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="150">
 </div>
+
+<p align="center">
+  <strong>Current Streak: 100+ Days! 🎉</strong><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Keep+up+the+great+work!;Code+every+day!;You're+amazing!" alt="Typing SVG" />
+</p>
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
  
