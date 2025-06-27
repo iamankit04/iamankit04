@@ -5,8 +5,8 @@
 
 🔭 B.Tech CSE (AI/ML) @ GL Bajaj Institute  
 🌱 Currently learning MERN Stack & System Design  
-💻 Solved **500+ problems** across platforms  
-🏆 Codility Golden Award | LeetCode 100+ Days Streak  
+💻 Solved **350+ problems** across platforms  
+🏆 LeetCode 100+ Days Streak  
 
 ## 🏆 Coding Profiles
 
@@ -17,10 +17,9 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
-
-[![Codility Badge](https://img.shields.io/badge/Codility-GOLD-FF6B00?style=for-the-badge&logo=codility&logoColor=white)](https://app.codility.com/cert/view/certXUZPXX-XXXXXX/)  
+ 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-250+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-150+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername)  
+[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-150+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
 
 </div>
 
@@ -33,19 +32,19 @@
       <div align="center">
         <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" style="border-radius: 8px;">
       </div>
-      <p align="center">Interactive 3D visualization using Three.js</p>
+      <p align="center">Interactive 3D visualization</p>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,threejs,webgl">
+        <img src="https://skillicons.dev/icons?i= html , css , js">
       </div>
     </td>
     <td width="33%" valign="top" style="padding: 15px;">
-      <h3 align="center">VS Code Clone</h3>
+      <h3 align="center">VS Code Clone</h3> <br><br>
       <div align="center">
         <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="100%" style="border-radius: 8px;">
       </div>
       <p align="center">Feature-rich code editor clone</p>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react">
+        <img src="https://skillicons.dev/icons?i=html,css,js">
       </div>
     </td>
     <td width="33%" valign="top" style="padding: 15px;">
@@ -64,7 +63,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,mongodb,mysql,git,github,bootstrap">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,git,github,bootstrap">
 </p>
 
 ## 📊 GitHub Stats
