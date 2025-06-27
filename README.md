@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&width=500&lines=Hello+World!;I'm+Ankit+Kumar+Gupta;DSA+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing Animation" />
 </p>
 
-🔭 B.Tech CSE (AI/ML) @ GL Bajaj Institute  
+🔭 B.Tech CSE @ GL Bajaj Institute  
 🌱 Currently learning MERN Stack & System Design  
 💻 Solved **350+ problems** across platforms  
-🏆 LeetCode 100+ Days Streak  
+🏆 LeetCode 50+ Days Streak  
 
 ## 🏆 Coding Profiles
 
@@ -41,7 +41,7 @@
       <h3 align="center">VS Code Clone</h3> <br><br>
       <div align="center">
         <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="100%" style="border-radius: 8px;">
-      </div> <br><br>
+      </div> <br><br> <br><br>
       <p align="center">Feature-rich code editor clone</p>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js">
