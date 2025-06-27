@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&width=500&lines=Hello+World!;I'm+Ankit+Kumar;DSA+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&width=500&lines=Hello+World!;I'm+Ankit+Kumar+Gupta;DSA+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing Animation" />
 </p>
 
 🔭 B.Tech CSE (AI/ML) @ GL Bajaj Institute  
@@ -19,7 +19,7 @@
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
  
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-250+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-150+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
+[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-50+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
 
 </div>
 
@@ -34,14 +34,14 @@
       </div>
       <p align="center">Interactive 3D visualization</p>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i= html , css , js">
+        <img src="https://skillicons.dev/icons?i=html,css,js">
       </div>
     </td>
     <td width="33%" valign="top" style="padding: 15px;">
       <h3 align="center">VS Code Clone</h3> <br><br>
       <div align="center">
         <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="100%" style="border-radius: 8px;">
-      </div>
+      </div> <br><br>
       <p align="center">Feature-rich code editor clone</p>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js">
