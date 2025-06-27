@@ -8,25 +8,21 @@
 💻 Solved **350+ problems** across platforms  
 🏆 LeetCode 50+ Days Streak  
 
-## 🐍 LeetCode Snake Eating Your Streaks!
+## 🏆 Coding Profiles
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode.card.workers.dev/?username=iamankit07&theme=dark&font=baloo&extension=activity&animation=snake">
-    <img alt="LeetCode Stats" src="https://leetcode.card.workers.dev/?username=iamankit07&theme=light&extension=activity&animation=snake" width="800">
-  </picture>
+  
+[![LeetCode Stats](![](https://leetcard.jacoblin.cool/iamankit07?site=cn))
+
 </div>
 
 <div align="center">
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
-
-
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 </div>
 
 <p align="center">
-  <strong>Current Streak: 100+ Days! 🎉</strong><br>
+  <strong>Current Streak: 70+ Days! 🎉</strong><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Keep+up+the+great+work!;Code+every+day!;You're+amazing!" alt="Typing SVG" />
 </p>
 
