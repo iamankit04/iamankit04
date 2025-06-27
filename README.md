@@ -1,4 +1,8 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&width=435&lines=Passionate+Developer;DSA+Enthusiast;Web+Developer;Problem+Solver" alt="Typing SVG" />
+</p>
+
 🔭 I'm a B.Tech 2nd-year student passionate about Web Development & DSA  
 🌱 Currently mastering Data Structures & Algorithms  
 💻 Solved **350+ DSA problems** across platforms  
@@ -6,21 +10,23 @@
 
 ## 🚀 Coding Stats
 
-| LeetCode Stats | DSA Progress |
-|----------------|--------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/iamankit07?ext=heatmap&theme=dark) | ![DSA Progress](https://github-readme-streak-stats.herokuapp.com/?user=iamankit07&theme=dark) <br> **Total Solved:** 350+ <br> - Easy: 150+ <br> - Medium: 170+ <br> - Hard: 30+ |
+| <img src="https://leetcard.jacoblin.cool/iamankit07?ext=heatmap&theme=dark&animation=true" width="400"> | <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=your_gfg_username&theme=dark" width="400"> |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 
 ## 🌟 Featured Projects
 
 ### 🎨 3D Circle Animation 
+> ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif)  
 > Creative visual experience using modern web technologies  
 > ![Tech](https://skillicons.dev/icons?i=js,html,css)
 
 ### 🕉️ Spiritual Zone Website 
+> ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif)  
 > Platform showcasing spiritual places with intuitive UI  
 > ![Tech](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 ### 💻 VS Code Clone 
+> ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0bWJtY2J2eG1xZ3VqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZ2RqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif)  
 > Functional replica of VS Code editor  
 > ![Tech](https://skillicons.dev/icons?i=html,css,js)
 
@@ -30,26 +36,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,mysql" alt="Tech Stack" />
 </p>
 
-## 📫 Let's Connect
+## 📊 Coding Activity
 
-<p align="center">
-  <a href="https://linkedin.com/in/iamankit04" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/i__am__ankit04" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/iamankit04" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:ankitkumargup143@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamankit07&show_icons=true&theme=dark" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamankit07&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
-</p>
+```text
+🌱 This Week's Activity:
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
