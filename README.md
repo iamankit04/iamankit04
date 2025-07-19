@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <strong>Current Streak: 70+ Days! 🎉</strong><br>
+  <strong>Current Streak: 90+ Days! 🎉</strong><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Keep+up+the+great+work!;Code+every+day!;You're+amazing!" alt="Typing SVG" />
 </p>
 
