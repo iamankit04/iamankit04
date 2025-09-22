@@ -5,7 +5,7 @@
 
 🔭 B.Tech CSE @ GL Bajaj Institute  
 🌱 Currently learning MERN Stack & System Design  
-💻 Solved **400+ problems** across platforms  
+💻 Solved **500+ problems** across platforms  
 🏆 LeetCode 60+ Days Streak  
 
 ## 🏆 Coding Profiles
@@ -27,8 +27,8 @@
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
  
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-50+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-350+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
+[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-75+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
 
 </div>
 
