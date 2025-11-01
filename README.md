@@ -5,7 +5,7 @@
 
 🔭 B.Tech CSE @ GL Bajaj Institute  
 🌱 Currently learning MERN Stack, LLD and WEB 3.0  
-💻 Solved **650+ problems** across platforms  
+💻 Solved **700+ problems** across platforms  
 🏆 LeetCode 60+ Days Streak  
 
 
