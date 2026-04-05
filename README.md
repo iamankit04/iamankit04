@@ -28,7 +28,7 @@
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
  
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-550+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
 [![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-150+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
 
 </div>
