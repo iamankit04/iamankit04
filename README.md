@@ -1,24 +1,25 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&width=500&lines=Hello+World!;I'm+Ankit+Kumar+Gupta;DSA+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&width=500&lines=Hello+World!;I'm+Ankit+Kumar+Gupta;Full+Stack+Developer;React+%7C+TypeScript+%7C+C%2B%2B;Problem+Solver" alt="Typing Animation" />
 </p>
 
-🔭 B.Tech CSE @ GL Bajaj Institute  
-🌱 Currently learning MERN Stack, SD and WEB 3.0  
-💻 Solved **1000+ problems** across platforms  
-🏆 LeetCode 60+ Days Streak  
-
+🔭 B.Tech CSE @ G.L. Bajaj Institute of Technology and Management  
+🌱 Currently learning MERN Stack, System Design, and DevOps  
+💻 Solved **1000+ problems** across multiple platforms  
+🏆 LeetCode 65+ Days Streak  
 
 ## 🏆 Coding Profiles
 
 <div align="center">
-  
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamankit07?theme=dark)
+  <a href="https://leetcode.com/iamankit07/">
+    <img src="https://leetcard.jacoblin.cool/iamankit07?theme=dark" alt="LeetCode Stats" />
+  </a>
 </div>
 
 <div align="center">
-  
-<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow">
+    <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="GitHub Contribution Graph" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;" />
+  </a>
 </div>
 
 <p align="center">
@@ -27,76 +28,96 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
- 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iamankit07/)  
-[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-150+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ankitfors9j0)  
-
+  <a href="https://leetcode.com/iamankit07/">
+    <img src="https://img.shields.io/badge/LeetCode-1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ankitfors9j0">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge" />
+  </a>
 </div>
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
   <tr>
-    <td width="33%" valign="top" style="padding: 15px;">
-      <h3 align="center">3D Circle Animation</h3>
-      <div align="center">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" style="border-radius: 8px;">
-      </div>
-      <p align="center">Interactive 3D visualization</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js">
-      </div>
+    <td width="50%" valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center">Rydex</h3>
+      <p align="center"><b>Multi-Partner Vehicle Booking Platform</b></p>
+      <p align="center">Next.js • TypeScript • Node.js • MongoDB • Razorpay</p>
+      <p align="center">
+        <a href="https://github.com/iamankit04/3.rydex" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
+        </a>
+        <a href="https://3-rydex-nu.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Deployed-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <details>
+        <summary><b>Project Details</b></summary>
+        <ul>
+          <li>Built a full-stack, multi-role vehicle booking platform with User, Partner, and Admin dashboards.</li>
+          <li>Implemented secure authentication via NextAuth.js with Google OAuth and email/OTP login.</li>
+          <li>Integrated Razorpay for online payments with automated 90/10 revenue split.</li>
+          <li>Enabled real-time ride tracking, pickup/drop OTP verification, AI in-ride chat, Cloudinary uploads, and Jigo Cloud video KYC.</li>
+        </ul>
+      </details>
     </td>
-    <td width="33%" valign="top" style="padding: 15px;">
-      <h3 align="center">VS Code Clone</h3> <br><br>
-      <div align="center">
-        <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="100%" style="border-radius: 8px;">
-      </div> <br><br> <br><br>
-      <p align="center">Feature-rich code editor clone</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js">
-      </div>
-    </td>
-    <td width="33%" valign="top" style="padding: 15px;">
-      <h3 align="center">Spiritual Zone</h3>
-      <div align="center">
-        <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100%" style="border-radius: 8px;">
-      </div>
-      <p align="center">Interactive tourism portal</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
-      </div>
+    <td width="50%" valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center">MultiCart</h3>
+      <p align="center"><b>Multi-Vendor E-Commerce Platform</b></p>
+      <p align="center">Next.js • TypeScript • Node.js • MongoDB • Stripe</p>
+      <p align="center">
+        <a href="https://github.com/iamankit04/multicart" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
+        </a>
+        <a href="https://multicart-bay.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Deployed-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <details>
+        <summary><b>Project Details</b></summary>
+        <ul>
+          <li>Built a full-stack multi-vendor e-commerce platform with User, Vendor, and Admin roles.</li>
+          <li>Implemented secure authentication via NextAuth.js with Google OAuth and credential login.</li>
+          <li>Created vendor verification and admin approval flow with business details.</li>
+          <li>Integrated Stripe payments, OTP-based delivery verification, returns/refunds, and AI chat support.</li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
+</div>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,git,github,bootstrap">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nodejs,nextjs,tailwind,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
-## 📊 GitHub Stats
+## 📚 Education
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamankit07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamankit07&theme=dark&hide_border=true" width="48%">
-</div>
+- **G.L. Bajaj Institute of Technology and Management**, Greater Noida, India — B.Tech CSE, 2023–2027, CGPA: 7.91
+- **RLJDMC DAV Public School**, Raniganj, India — Intermediate, 2022, 86%
+- **St. Michael’s School**, Durgapur, India — High School, 2020, 86%
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamankit07&theme=github-dark&hide_border=true&area=true" width="90%">
-</div>
+## 🏅 Highlights
+
+- Competitive Programming: Solved **1000+ coding problems** and achieved **1500+ rating** on LeetCode.
+- Participated in **Smart India Hackathon (SIH)**.
+- Participated in a **Hackathon organized by IIIT Delhi**.
+- Certifications: Building AI Apps with MongoDB with AWS, Cisco Cybersecurity Virtual Internship.
 
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/iamankit04" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ankitkumargup143@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/iamankit04" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://github.com/iamankit04" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
