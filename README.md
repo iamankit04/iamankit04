@@ -5,8 +5,8 @@
 
 🔭 B.Tech CSE @ G.L. Bajaj Institute of Technology and Management  
 🌱 Currently learning MERN Stack, System Design, and DevOps  
-💻 Solved **1000+ problems** across multiple platforms  
-🏆 LeetCode 65+ Days Streak  
+💻 Solved **1100+ problems** across multiple platforms  
+🏆 LeetCode 75+ Days Streak  
 
 ## 🏆 Coding Profiles
 
