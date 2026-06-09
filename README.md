@@ -103,7 +103,7 @@
 
 ## 🏅 Highlights
 
-- Competitive Programming: Solved **1000+ coding problems** and achieved **1500+ rating** on LeetCode.
+- Competitive Programming: Solved **1100+ coding problems** and achieved **1500+ rating** on LeetCode.
 - Participated in **Smart India Hackathon (SIH)**.
 - Participated in a **Hackathon organized by IIIT Delhi**.
 - Certifications: Building AI Apps with MongoDB with AWS, Cisco Cybersecurity Virtual Internship.
