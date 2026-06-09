@@ -29,7 +29,7 @@
 
 <div align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
   <a href="https://leetcode.com/iamankit07/">
-    <img src="https://img.shields.io/badge/LeetCode-1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/LeetCode-700%+2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/ankitfors9j0">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge" />
