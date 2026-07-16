@@ -97,7 +97,7 @@
 
 ## 📚 Education
 
-- **G.L. Bajaj Institute of Technology and Management**, Greater Noida, India — B.Tech CSE, 2023–2027, CGPA: 7.91
+- **G.L. Bajaj Institute of Technology and Management**, Greater Noida, India — B.Tech CSE, 2023–2027, CGPA: 7.94
 - **RLJDMC DAV Public School**, Raniganj, India — Intermediate, 2022, 86%
 - **St. Michael’s School**, Durgapur, India — High School, 2020, 86%
 
